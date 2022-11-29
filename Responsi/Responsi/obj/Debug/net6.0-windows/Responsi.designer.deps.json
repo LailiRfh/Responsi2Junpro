@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dropdown-jn/1.0.3": {
+        "dependencies": {
+          "jQuery": "1.9.1"
+        }
+      },
+      "jQuery/1.9.1": {},
+      "jQuery.UI.Combined/1.8.23": {
+        "dependencies": {
+          "jQuery": "1.9.1"
+        }
+      },
+      "jui_dropdown/1.0.4": {
+        "dependencies": {
+          "jQuery": "1.9.1",
+          "jQuery.UI.Combined": "1.8.23"
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Npgsql/7.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Npgsql.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dropdown-jn/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IhE2m45jY4GC2vQmaovWEOmhsAipbE2bunPPdZWucPCkKnf2De1htcSNR7w4D1Macfx2F4GqcQmCud0LNXTF0g==",
+      "path": "dropdown-jn/1.0.3",
+      "hashPath": "dropdown-jn.1.0.3.nupkg.sha512"
+    },
+    "jQuery/1.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HiX9icLyiJGgiL5EOIn0d1MBPHVV2M9mzWT4mANdniDNR51RvAFTyKEXEd2+5yQJ4PJ5xePOR61Vjj/omQzYcw==",
+      "path": "jquery/1.9.1",
+      "hashPath": "jquery.1.9.1.nupkg.sha512"
+    },
+    "jQuery.UI.Combined/1.8.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wcwj4KAiCcuEoPlbGxiKRvjYTErD6zJhZhJQbkzc/wlLc6AdWutKkbVWk+HbHpY0+abCD+WMbBV15LJWbwGzyQ==",
+      "path": "jquery.ui.combined/1.8.23",
+      "hashPath": "jquery.ui.combined.1.8.23.nupkg.sha512"
+    },
+    "jui_dropdown/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NBFxdi99DS9TTnxCYnBggmlb7RL6JvUBxq6Gr8sUwPyE/6f+UJWP/f9bpLZReprPpaNTBl1sUvo/cSdQ75MOew==",
+      "path": "jui_dropdown/1.0.4",
+      "hashPath": "jui_dropdown.1.0.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/HggWBbTwy8TgebGSX5DBZ24ndhzi93sHUBDvP1IxbZD7FDokYzdAr6+vbWGjw2XAfR2EJ1sfKUotpjHnFWPxA==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Npgsql/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tOBFksJZ2MiEz8xtDUgS5IG19jVO3nSP15QDYWiiGpXHe0PsLoQBts2Sg3hHKrrLTuw+AjsJz9iKvvGNHyKDIg==",
+      "path": "npgsql/7.0.0",
+      "hashPath": "npgsql.7.0.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ote3FtOC/jqUOLzuRGo6NCuYwaVT0gHqdKqmo99CTjEfoJr3Zx+tUFsu9bkoqHAKX+GIVfiAfqs0VUAq0GY5tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laili Rofi'ah\\Downloads\\Junpro\\Responsi\\Responsi\\Responsi\\Responsi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laili Rofi'ah\\.nuget\\packages\\dropdown-jn\\1.0.3\\dropdown-jn.1.0.3.nupkg.sha512",
+    "C:\\Users\\Laili Rofi'ah\\.nuget\\packages\\jquery\\1.9.1\\jquery.1.9.1.nupkg.sha512",
+    "C:\\Users\\Laili Rofi'ah\\.nuget\\packages\\jquery.ui.combined\\1.8.23\\jquery.ui.combined.1.8.23.nupkg.sha512",
+    "C:\\Users\\Laili Rofi'ah\\.nuget\\packages\\jui_dropdown\\1.0.4\\jui_dropdown.1.0.4.nupkg.sha512",
+    "C:\\Users\\Laili Rofi'ah\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Laili Rofi'ah\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Laili Rofi'ah\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
